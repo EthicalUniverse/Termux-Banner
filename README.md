@@ -6,7 +6,7 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/TantorRay/Termux-Banner.git`
+* `git clone https://github.com/EthicalUniverse/Termux-Banner`
 
 * `cd Termux-Banner`
 
