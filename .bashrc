@@ -9,5 +9,5 @@ echo "
  |_|  |_| /_/    \_\  \_____| |_|\_\ |______| |_|  \_\
                                                       
                                                       
-<========== Created by Ethacal Universe ===========>
+<===========Created by Ethical Universe===========>
 " | lolcat
