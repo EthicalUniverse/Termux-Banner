@@ -27,3 +27,8 @@ Open the terminal and type following commands.
 
 
 ------------------------------------------------------------------------
+
+## Tutorial :
+<p>
+  <a href="https://youtube.com/@Ethical_Universe">Tutorial Video</a>
+  </p>
