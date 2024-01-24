@@ -32,3 +32,13 @@ Open the terminal and type following commands.
 <p>
   <a href="https://youtube.com/@Ethical_Universe">Tutorial Video</a>
   </p>
+
+
+## social media
+<p>
+  <a href="https://youtube.com/@Ethical_Universe">Youtube</a>
+  </p>
+
+  <p>
+  <a href="http://facebook.com">Facebook</a>
+  </p>
