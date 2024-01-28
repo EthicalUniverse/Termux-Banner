@@ -40,5 +40,5 @@ Open the terminal and type following commands.
   </p>
 
   <p>
-  <a href="http://facebook.com">Facebook</a>
+  <a href="https://www.facebook.com/EthicalUniversebd">Facebook</a>
   </p>
