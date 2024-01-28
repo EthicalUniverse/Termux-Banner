@@ -1,4 +1,3 @@
-GNU nano 7.2           .bashrc
 clear
 echo "
   _    _               _____   _  __  ______   _____  
