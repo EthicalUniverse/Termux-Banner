@@ -17,6 +17,8 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
+* 'apt install python -y'
+
 * `git clone https://github.com/EthicalUniverse/Termux-Banner`
 
 * `cd Termux-Banner`
