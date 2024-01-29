@@ -13,7 +13,6 @@ apt update -y
 apt upgrade -y
 apt install python -y
 apt install nano -y
-pip install lolcat
 
 mv .bashrc /data/data/com.termux/files/home
 
