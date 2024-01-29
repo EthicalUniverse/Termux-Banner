@@ -15,7 +15,7 @@ Open the terminal and type following commands.
 
 * `apt update`
 
-* `apt install git`
+* `apt install git -y`
 
 * `apt install python -y`
 
